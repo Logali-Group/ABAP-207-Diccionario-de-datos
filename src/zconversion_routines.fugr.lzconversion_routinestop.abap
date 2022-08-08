@@ -1,0 +1,3 @@
+FUNCTION-POOL ZCONVERSION_ROUTINES.         "MESSAGE-ID ..
+
+* INCLUDE LZCONVERSION_ROUTINESD...          " Local class definition
